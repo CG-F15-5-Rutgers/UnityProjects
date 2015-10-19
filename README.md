@@ -1,6 +1,6 @@
 #Group Name
 ######Unity Projects - CG Fall 2015 @ Rutgers
-######By: *Kenny Udvic, Nick Girardo, Karn Patel*
+######By: *Kenny Udovic, Nick Girardo, Karn Patel*
 Check out our website: [Group Name Website](http://team5graphics.blogspot.com/ "Our Page")
 
 ![alt text](teamLogo.png)
