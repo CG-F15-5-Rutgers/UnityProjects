@@ -1,0 +1,3 @@
+A very simple little girl character and snail taken from the maya tutorial in the 3d World magazine 159 (Sept 2012).  The snail could do with a little improving.  I did this just to see how Blender handled ssome maya commands, with BMesh it was relatively simple.  I added a simple rig for the girl, some particle grass and a couple of simple rocks, the sky background was rendered with Vue 8.  Feel free to use her as you want, no credit is required.
+All the textures are included in a seperate texture folder.
+Constructive criticism is very welcome so please feel free to post comments.

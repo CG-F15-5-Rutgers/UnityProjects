@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 7c9f1acb8b83f2346937e3d2a7c1ab36
+timeCreated: 1450217445
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ankle_l
+    100002: ankle_l_002
+    100004: Armature
+    100006: bicep_l
+    100008: bicep_r
+    100010: chest
+    100012: dress
+    100014: eye
+    100016: fingers1_l
+    100018: fingers1_r
+    100020: fingers2_l
+    100022: fingers2_r
+    100024: foot_l
+    100026: foot_r
+    100028: forearm_l
+    100030: forearm_r
+    100032: //RootNode
+    100034: girl
+    100036: hair
+    100038: head
+    100040: hips
+    100042: neck
+    100044: Plane
+    100046: Rock1
+    100048: Rock2
+    100050: shin_l
+    100052: shin_r
+    100054: snail_body
+    100056: snail_eyes
+    100058: snail_shell
+    100060: thigh_l
+    100062: thigh_r
+    100064: thumb_l
+    100066: thumb_r
+    100068: wrist_l
+    100070: wrist_r
+    400000: ankle_l
+    400002: ankle_l_002
+    400004: Armature
+    400006: bicep_l
+    400008: bicep_r
+    400010: chest
+    400012: dress
+    400014: eye
+    400016: fingers1_l
+    400018: fingers1_r
+    400020: fingers2_l
+    400022: fingers2_r
+    400024: foot_l
+    400026: foot_r
+    400028: forearm_l
+    400030: forearm_r
+    400032: //RootNode
+    400034: girl
+    400036: hair
+    400038: head
+    400040: hips
+    400042: neck
+    400044: Plane
+    400046: Rock1
+    400048: Rock2
+    400050: shin_l
+    400052: shin_r
+    400054: snail_body
+    400056: snail_eyes
+    400058: snail_shell
+    400060: thigh_l
+    400062: thigh_r
+    400064: thumb_l
+    400066: thumb_r
+    400068: wrist_l
+    400070: wrist_r
+    2300000: Plane
+    2300002: Rock1
+    2300004: Rock2
+    2300006: snail_body
+    2300008: snail_eyes
+    2300010: snail_shell
+    3300000: Plane
+    3300002: Rock1
+    3300004: Rock2
+    3300006: snail_body
+    3300008: snail_eyes
+    3300010: snail_shell
+    4300000: Rock2
+    4300002: Rock1
+    4300004: Plane
+    4300006: girl
+    4300008: eye
+    4300010: dress
+    4300012: hair
+    4300014: snail_body
+    4300016: snail_shell
+    4300018: snail_eyes
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: dress
+    13700002: eye
+    13700004: girl
+    13700006: hair
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

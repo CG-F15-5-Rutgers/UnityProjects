@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Dude : MonoBehaviour {
+public class part2Movement : MonoBehaviour {
 
 	enum MovementState {Idle=0, Walking, Running};
 

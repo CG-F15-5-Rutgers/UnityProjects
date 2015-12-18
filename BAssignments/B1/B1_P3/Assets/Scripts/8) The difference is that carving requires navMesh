@@ -1,0 +1,5 @@
+8) The difference is that carving requires navMesh to be recomputed.  You want the carve checkbox to be active if the obstacle is going to be static for a long period of time.  You want it to be deactivated of the object is going to be moving.  
+	i) The navMeshAgent is going to be constantly recalculating which is costly
+	ii) Then, the agents will have the potential to get hung up on every single obstacle
+
+9) An agent can predict the movement of an obstacle and accelerate/decelerate in order to avoid it.
