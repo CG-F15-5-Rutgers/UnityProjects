@@ -24,5 +24,9 @@ public class DialogueBehaviorMecanim : MonoBehaviour
 	public Node Speak(Speaker speaker, string words, float time) {
 		return new LeafInvoke(() => this.Character.speak(speaker, words, time));
 	}
+
+	public Node Speak(Speaker speaker, Func<string> willBeWords, float time) {
+		return new LeafInvoke (() => this.Character.speak (speaker, willBeWords (), time));
+	}
 	
 }

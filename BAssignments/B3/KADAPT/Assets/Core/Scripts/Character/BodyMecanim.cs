@@ -478,7 +478,7 @@ public class BodyMecanim : MonoBehaviour
 	
 	public bool NavHasBreaked()
 	{
-		return this.animator.GetCurrentAnimatorStateInfo(0).IsName("ElvisLegs");
+		return this.animator.GetCurrentAnimatorStateInfo(0).IsName("BD1");
 	}
 
 	public bool isBreakdancing()
